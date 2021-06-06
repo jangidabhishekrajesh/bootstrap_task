@@ -1,0 +1,101 @@
+*{
+    margin: 0%;
+}
+.header-nav{
+    background-image: url(bg-header.jpg);
+    padding: 15px;
+}
+.anchor{
+    font-size:small;
+    margin-top: 40px;
+}
+.container-fluid{
+    background-image: url(bg-body.jpg);
+    padding: 20px;
+}
+.relation{
+    margin-left: 120px;
+}
+.banner{
+    background-image: url(bg-featured.jpg);
+    height: 380px;
+}
+.text-tree{
+    margin-left: 12em;
+    padding: 3em;
+    color: white;
+}
+.btn{
+    background-color: yellowgreen;
+    margin-top: -85px;
+    color: white;
+    border: 3px solid white;
+}
+.btn:hover{
+    background-color: orange;
+    color: white;
+    border: 3px solid white;
+}
+.nav-link{
+    color: white;
+    text-shadow: 2px solid black;
+}
+.nav-link:hover{
+    color: yellow;
+    text-shadow: 2px solid black;
+}
+.nav-item1{
+    margin-left: 20px;
+}
+.nav-link1:hover{
+    color:orangered;
+    text-shadow: 2px solid black;
+}
+.parag{
+    text-shadow: black;
+}
+span{
+    color: yellow;
+    text-shadow: black;
+}
+.card{
+    display: flex;
+}
+.parag-img{
+    font-size: smaller;
+    margin-top: 1em;
+}
+.smalley{
+    font-size:small;
+    margin-top:1em ;
+}
+.heading{
+    margin-top: 2em;
+}
+.grid-sm-6{
+    margin-top:1em ;
+}
+.linking{
+    color: orange;
+}
+#container-fluid1{
+    background-image: url(bg-footer.jpg);
+}
+.email-go{
+    border: orange;
+    background-color: orange;
+    color: white;
+}
+.email-go:hover{
+    background-color: lightseagreen ;
+}
+footer{
+    font-size: 13px;
+}
+.footer{
+    font-size: 13px;
+    margin-top: 25px;
+}
+#copyright{
+    margin-top: -20px;
+}
